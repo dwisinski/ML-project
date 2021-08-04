@@ -10,15 +10,10 @@ jupyterlab==2.2.6
 Keras==2.4.3
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
 numpy==1.21.1
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-pandas @ file:///C:/ci/pandas_1602083338010/work
 pickleshare==0.7.5
 ruamel-yaml==0.15.87
 scikit-image==0.17.2
 scikit-learn==0.24.2
 scikit-optimize==0.8.1
-scipy @ file:///C:/ci/scipy_1604596260408/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
 xgboost==1.4.2
