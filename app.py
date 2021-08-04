@@ -7,7 +7,7 @@ from tensorflow import keras
 app = Flask(__name__)
 cors = CORS(app)
 
-model2 = keras.models.load_model('ML-project\model\nn_model.h5')
+model2 = keras.models.load_model('c:/Users/pvpch/Desktop/NU_Repo/HW/ML-project/model/nn_model.h5')
 
 @app.route('/', methods=['GET', 'POST'])
 @cross_origin()
